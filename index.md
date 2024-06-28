@@ -8,28 +8,10 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ~~~
-#include <stdio.h>
-
-int main() {
-    // Loop from 1 to 10
-    for (int i = 1; i <= 10; i++) {
-        // Print the current number
-        printf("%d\n", i);
-    }
-    
-    return 0;
-}
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ~~~
-~~~c
-#include <stdio.h>
 
-int main() {
-    // Loop from 1 to 10
-    for (int i = 1; i <= 10; i++) {
-        // Print the current number
-        printf("%d\n", i);
-    }
-    
-    return 0;
-}
+~~~javascript
+var myVar = "Hello, world!";
 ~~~
